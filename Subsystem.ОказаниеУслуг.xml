@@ -18,6 +18,7 @@
 				<xr:item xsi:type="xr:MDObjectRef">Catalog.Клиенты</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">Catalog.Сотрудники</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">Catalog.Номенклатура</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">Catalog.Склады</xr:item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

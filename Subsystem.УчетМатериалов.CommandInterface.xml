@@ -6,4 +6,10 @@
 			<xr:common>true</xr:common>
 		</visibility>
 	</commandVisibility>
+	<commandVisibility>
+		<command>Catalog.Склады.StandardCommand.Create</command>
+		<visibility>
+			<xr:common>true</xr:common>
+		</visibility>
+	</commandVisibility>
 </commandInterface>
