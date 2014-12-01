@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ClientApplicationInterface xmlns="http://v8.1c.ru/8.2/managed-application/core" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="InterfaceLayouter">
+	<top>
+		<panel id="102500a0-ae73-463f-90bd-a720e3403285">
+			<name>Панель разделов</name>
+		</panel>
+	</top>
+	<top>
+		<panel id="f17286ca-6908-45fd-b5ff-190a8c93dc54">
+			<name>Панель команд текущего раздела</name>
+		</panel>
+	</top>
+	<left>
+		<panel id="20e364b7-6f63-4429-9fb3-9e20c9f12893">
+			<name>Панель инструментов</name>
+		</panel>
+	</left>
+</ClientApplicationInterface>
