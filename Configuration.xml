@@ -56,7 +56,6 @@
 			<Subsystem>ОказаниеУслуг</Subsystem>
 			<Subsystem>РасчетЗарплаты</Subsystem>
 			<Subsystem>Предприятие</Subsystem>
-			<Catalog>Клиенты</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

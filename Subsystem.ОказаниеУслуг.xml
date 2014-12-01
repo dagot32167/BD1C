@@ -14,9 +14,7 @@
 			<IncludeInCommandInterface>true</IncludeInCommandInterface>
 			<Explanation/>
 			<Picture/>
-			<Content>
-				<xr:item xsi:type="xr:MDObjectRef">Catalog.Клиенты</xr:item>
-			</Content>
+			<Content/>
 		</Properties>
 		<ChildObjects/>
 	</Subsystem>
