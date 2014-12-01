@@ -58,6 +58,7 @@
 			<Subsystem>Предприятие</Subsystem>
 			<Catalog>Клиенты</Catalog>
 			<Catalog>Сотрудники</Catalog>
+			<Catalog>Номенклатура</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

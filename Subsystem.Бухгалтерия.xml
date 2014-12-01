@@ -16,6 +16,7 @@
 			<Picture/>
 			<Content>
 				<xr:item xsi:type="xr:MDObjectRef">Catalog.Клиенты</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">Catalog.Номенклатура</xr:item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
